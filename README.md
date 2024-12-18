@@ -28,7 +28,7 @@ This is a simple yet powerful web application for managing tasks. It allows user
 
 5. **Data Persistence**
 
-   - Tasks are saved in the browser's `localStorage`, ensuring they persist even after the page is refreshed.
+   - Tasks are saved in the browser's `localStorage`, ensuring they persist after the page is refreshed.
 
 ---
 
@@ -107,7 +107,7 @@ project-directory/
 
 5. **Data Persistence**:
 
-   - Tasks are stored in `localStorage` to persist them between page reloads.
+   - Tasks are stored in `localStorage` to persist between page reloads.
 
 ---
 
@@ -123,6 +123,6 @@ project-directory/
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available for making changes.
 
 By Adarsh Singh
